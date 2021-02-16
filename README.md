@@ -21,3 +21,10 @@ pip install pyro
 pip install git+https://github.com/AdamCobb/hamiltorch
 pip install pyro-ppl
 ```
+
+## Build with
+
+```
+https://github.com/AdamCobb/hamiltorch
+https://github.com/pytorch/pytorch
+```
