@@ -14,7 +14,9 @@ Both Bayesian Neural Networks are implemented using Torch, in the HamiltonianMon
 
 To install the packages you have to execute the following commands:
 
+```
 pip install keras
 pip install pyro
 pip install git+https://github.com/AdamCobb/hamiltorch
 pip install pyro-ppl
+```
