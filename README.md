@@ -1,8 +1,15 @@
 # BayesianNN
-Implementation of Bayesian Neural Networks for an X-Ray Covid Dataset
+In this work we introduce you to neural network and bayesian neural network. We explain briefly how they are build and how they work, then we inspect the strengths and weaknesses comparing the two approaches on at theoretical level and secondly applying these methods to a dataset.
 
 ## Structure
 
+On the Networks folder 3 codes can be found:
+
+ClassicalNeuralNetwork.py that implements a classical Neural Network.
+
+HamiltonianMonteCarlo.py that implements a bayesian Neural Network with a Hamiltonian method for posteriori approximation.
+
+VariationalInference.py that implements a bayesian Neural Network with a Variational Inference method for posteriori approximation.
 ## Dataset
 
 It can be found in the following link:
